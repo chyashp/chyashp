@@ -31,40 +31,25 @@ I'm a passionate developer specializing in both web and mobile development, brin
 
 ### 💼 Experience
 
-#### React Mentor & Assignment Reviewer @ Code the Dream
-- Conducting 1:1 mentoring sessions with React students
-- Reviewing and providing feedback on React assignments
-- Supporting students in their learning journey
+🔹 UI Developer – TD Canada Trust
+Toronto, ON | October 2022 – December 2024
 
-#### Front-end Developer @ Chingu - Voyage 52
-- Collaborated in team development of the Solarite website
-- Implemented responsive design and modern UI components
-- Worked in an agile development environment
+Built responsive internal tools and dashboards using ReactJS, TypeScript, Bootstrap, and Material UI.
 
-### 🚀 Featured Projects
+Developed reusable component libraries and improved cross-browser compatibility, reducing UI defects by 40%.
 
-#### Web Projects
-1. **Game-hub Project**
-   - Search different types of games with three styles of filters
-   - [Live Demo](https://game-hub-project-git-main-yashpreet-kaurs-projects.vercel.app/) | [GitHub](https://github.com/chyashp/Game-Hub-Project.git)
+Collaborated with QA, designers, and backend teams in Agile sprints to deliver scalable, production-ready web applications.
 
-2. **Instagram Clone**
-   - Authentication with Firebase
-   - Redux state management
-   - [Live Demo](https://instagram-clone-psi-jet.vercel.app/) | [GitHub](https://github.com/chyashp/Instagram-clone.git)
+Implemented secure, accessible UI patterns and optimized frontend performance for complex financial platforms.
 
-#### Mobile Projects
-1. **Expense Tracker (React Native)**
-   - Comprehensive finance management
-   - AsyncStorage for data persistence
-   - Firebase integration
-   - [GitHub](https://github.com/chyashp/expense-tracker-react-native.git)
+🔹 Software Developer – eClerx
+India | July 2017 – April 2019
 
-2. **Guess the Number Game**
-   - Interactive mobile game
-   - Custom animations
-   - Native device features
-   - [GitHub](https://github.com/chyashp/Counter-App-React-Native.git)
+Created and maintained client-facing web applications using HTML5, CSS3, JavaScript, and jQuery.
+
+Improved user interface consistency across browsers and contributed to UX enhancements for internal dashboards.
+
+Worked with cross-functional teams to resolve frontend bugs and deliver new features under tight timelines.
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kaur)
